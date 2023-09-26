@@ -1,4 +1,4 @@
-# dotnet-container-app-aws-ec2
+# CRUD App using postgres and dotnet 7 and deployed on AWS EC2
 
 Based on https://codewithmukesh.com/blog/hosting-aspnet-core-webapi-on-amazon-ec2/
 
@@ -21,6 +21,6 @@ Then run the below command to register the microsoft packages (https://docs.serv
 
 sudo rpm -Uvh https://packages.microsoft.com/config/centos/7/packages-microsoft-prod.rpm 
 
+## Enable Verified Sign on Github commits
 
-#Verified Sign on Github commits
 https://roelofjanelsinga.com/articles/how-to-setup-gpg-signing-keys-in-github/
