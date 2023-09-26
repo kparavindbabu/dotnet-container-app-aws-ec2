@@ -21,3 +21,6 @@ Then run the below command to register the microsoft packages (https://docs.serv
 
 sudo rpm -Uvh https://packages.microsoft.com/config/centos/7/packages-microsoft-prod.rpm 
 
+
+#Verified Sign on Github commits
+https://roelofjanelsinga.com/articles/how-to-setup-gpg-signing-keys-in-github/
